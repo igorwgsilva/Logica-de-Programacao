@@ -1,2 +1,2 @@
 # Logica-de-Programacao
-<img href="/imglogica.jpeg">
+<img href="./imglogica.jpeg">
