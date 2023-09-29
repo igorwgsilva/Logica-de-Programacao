@@ -1,0 +1,3 @@
+dona Rosa : vestido Branco. Portanto,
+dona Branca : Violeta. Portanto,
+dona Violeta: vestido Rosa 
