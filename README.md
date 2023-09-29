@@ -1,4 +1,4 @@
 # Logica-de-Programacao
 <div align="center">
-https://github.com/igorwgsilva/Logica-de-Programacao/assets/110496185/5dca0cff-9328-4648-9646-e9759b8067c1
+<img src="![imglogica](https://github.com/igorwgsilva/Logica-de-Programacao/assets/110496185/d029f808-fb0e-4fc8-9704-c22e6b391985)" width="700px" />
 </div>
