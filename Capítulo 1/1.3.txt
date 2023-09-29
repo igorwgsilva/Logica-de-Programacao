@@ -1,0 +1,11 @@
+Inicio
+Pegar disco 1 e botar em c.
+Pegar disco 2 e botar em b.
+Pegar disco 1 e botar em a.
+Pegar disco 2 e botar em c.
+Pegar disco 1 e botar em c.
+Pegar disco 3 e botar em b.
+pegar disco 1 e botar em a.
+pegar disco 2 e botar em b.
+pegar disco 1 e botar em b.
+Fim.
