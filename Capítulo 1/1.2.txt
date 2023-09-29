@@ -1,0 +1,10 @@
+Inicio
+Pegar lobo e botar no barco.
+Atravessar o rio, e deixar lobo.
+Voltar.
+Pegar alfafa e botar no barco.
+Atravessar o rio e deixar alfafa.
+Voltar.
+Pegar Bode e botar no barco.
+Atracessar o rio e deixar Bode.
+Fim
