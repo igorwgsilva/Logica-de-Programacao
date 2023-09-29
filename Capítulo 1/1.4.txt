@@ -1,0 +1,9 @@
+Inicio
+Jesuita 1 e Canibal 1 vão até a outra margem.
+Jesuita 1 Volta e vai com Canibal 2 até a outra margem.
+Canibal 2 Volta, pega Jesuita 2 e leva até a outra margem.
+( 2 Jesuitas e 2 Canibais de um lado, 1 de cada no outro.)
+ Canibal 2 Volta e leva Jesuita 3 para outra margem.
+ ( 3 Jesuit e 2 Canibais na margem de destino)
+ 1 dos Canibais  traz o ultimo Canibal que falta.
+ FIM.
